@@ -1,5 +1,3 @@
-
-
 def check(li, showResult: bool = False):
     if len(li) > 5:
             return "Error: Too many problems."
